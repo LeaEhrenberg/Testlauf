@@ -1,0 +1,194 @@
+id,id_name,sex,age,Ort,Gründungsjahr
+ra,Rocio Aleman,1,4,Mexiko,NA
+eb,Elisa Badenes,1,4,Spanien,NA
+mb,Mackenzie Brown,1,2,USA,NA
+mk,Miriam Kacerova,1,NA,Slowakei,NA
+Monterrey,Escuela superior de Música y Danza de Monterrey,NA,NA,Mexiko,2
+Stuttgart_Schule,John Cranko Schule,NA,NA,Deutschland,3
+Valenzia,Conservatorio Profesional de Danza de Valenzia,NA,NA,Spanien,2
+London_School,Royal Ballett School,NA,NA,England,2
+Virginia,Classical Ballet of Fredericksburg,NA,NA,USA,NA
+Monaco,Académie de Danse Classique Princess Grace,NA,NA,Frankreich,3
+Bratislava,Konservatorium für Tanz,NA,NA,Slowakei,2
+Zürich_Ballett,Ballett Zürich,NA,NA,Schweiz,2
+ao,Anna Osadcenko,1,NA,Kasachstan,NA
+he,Henrik Erikson,2,NA,China,NA
+Zürich_Schule,Ballettschule für das Opernhaus Zürich,NA,NA,Schweiz,3
+Almaty,Academie A B Selesnew,NA,NA,Kasachstan,2
+as,Agnes Su,1,2,USA,NA
+San_Clemente,Pacific Coast Academy of Dance ,NA,NA,USA,NA
+Fountain_Valley,Southland Ballet Academy,NA,NA,USA,3
+aa,Amandine Albisson,1,5,Frankreich,NA
+bb,Bleuenn Battistoni,1,3,Frankreich,NA
+Paris_Opera,Opéra national de Paris,NA,NA,Frankreich,1
+Paris_Conservatoire,Conservatoire national supérieur de musique et de danse de Paris,NA,NA,Frankreich,1
+lb,Léonore Baulac,1,4,Frankreich,NA
+vc,Valentine Colasante,1,4,Frankreich,NA
+gd,Guillaume Diop,2,2,Frankreich,NA
+mg,Mathieu Ganio,1,5,Frankreich,NA
+Marseille,École National de Danse de Marseille,NA,NA,Frankreich,2
+dg,Dorothée Gilbert,1,6,Frankreich,NA
+Touluse,Conservatoire à rayonnement régional de Touluse,NA,NA,Frankreich,1
+Paris_CRR,Conservatoire à rayonnement régional de Paris,NA,NA,Frankreich,3
+lh,Laura Hecquet,1,5,Frankreich,NA
+Marseille_Academie,Académie Danse Attitude,NA,NA,Frankreich,NA
+mh,Mathias Heymann,2,5,Frankreich,NA
+Chalon_sur_Saone,Conservatoire national de région de Chalon sur Saone,NA,NA,Frankreich,3
+gl,Germain Louvet,2,4,Frankreich,NA
+Nantes,Conservatoire de Nantes,NA,NA,Frankreich,1
+hm,Hugo Marchand,2,4,Frankreich,NA
+Biarritz,Nicole Cavallin's school of dance,NA,NA,Frankreich,NA
+Stuttgart_Ballett,Stuttgarter Ballett,NA,NA,Deutschland,3
+pm,Paul Marque,1,2,Frankreich,NA
+mm,Marc Moreau,1,5,Frankreich,NA
+Tokio,Kishibe Ballet Studio,NA,NA,Japan,NA
+Auckland,Mt Eden Ballet Academy,NA,NA,Neuseeland,NA
+Melbourne,Australian Ballet School,NA,NA,Australien,3
+Stuttgart_Theater,Staatstheater Stuttgart,NA,NA,Deutschland,1
+ho,Hannah O'Neill,1,4,Japan,NA
+Stafford,Barton & Williams School of Classical Dance,NA,NA,USA,3
+Santiago_de_Chile,Ballet de Santiago,NA,NA,Chile,3
+Buenos_Aires,Instituto Superior de Arte del Teatro Colón,NA,NA,Argentinien,3
+lp,Ludmila Pagliero,1,6,Argentinien,NA
+Seoul_University,Korea National University of Arts,NA,NA,Korea,3
+New_York,American Ballet Theatre,NA,NA,USA,2
+Seoul_Ballet,Korean National Ballet,NA,NA,Korea,3
+sep,Sae Eun Park,1,4,Südkorea,NA
+gf,Gabriel Figueredo,2,2,Brasilien,NA
+Taquara,Andanças de Rita Candemil,NA,NA,Brasilien,NA
+Sao_Paulo,Pavilhão D,NA,NA,Brasilien,NA
+dm,David Moore,2,4,England,NA
+Ipswich,Angela Rowe School of Dance,NA,NA,England,3
+mp,Martí Paixà,2,3,Spanien,NA
+Montbrio_del_Camp,Escola de Dança I Musica,NA,NA,Spanien,3
+jr,Jason Reilly,2,5,Kanada,NA
+Toronto,Canada’s National Ballet School,NA,NA,Kanada,3
+ass,Adhonay Soares da Silva,2,NA,Brasilien,NA
+Goiania_Centro,Centro Cultural Gustav Ritter,NA,NA,Brasilien,3
+Goiania_CEP,CEP em Artes Brasileu Franca,NA,NA,Brasilien,4
+fv,Friedemann Vogel,2,6,Deutschland,NA
+rs,Roxane Stojanov,1,3,Frankreich,NA
+London_Ballett,Royal Ballett & Opera,NA,NA,England,2
+mba,Matthew Ball,2,4,England,NA
+wb,William Bracewell,2,4,Wales,NA
+Swansea,Pamela Miller Ballett School,NA,NA,Wales,NA
+Birmingham_Ballett,Birmingham Royal Ballett,NA,NA,England,3
+ql,Qian Liu,1,4,China,NA
+Amsterdam,Dutch National Opera & Ballet,NA,NA,Niederlande,3
+Shenyang,Liaoning Ballet,NA,NA,China,3
+mama,Maia Makhateli,1,5,Georgien,NA
+Tiflis,Vakhtang Chabukiani State Ballet School,NA,NA,Georgien,2
+Denver,Colorado Ballet,NA,NA,USA,3
+aol,Anna Ol,1,5,Russland,NA
+Krasnoyarsk_Opera,Krasnoyarsk State Opera and Ballet Theater,NA,NA,Russland,3
+Krasnoyarsk_Ballet,Russian State Ballet of Siberia,NA,NA,Russland,1
+rc,Reece Clarke,2,3,Schottland,NA
+Coatbridge,Janis Ridley School,NA,NA,Schottland,3
+London_English_Ballett,English National Ballett,NA,NA,England,3
+cc,Cesar Corrales,2,3,Mexiko,NA
+lc,Lauren Cuthbertson,1,5,England,NA
+mha,Melissa Hamilton,1,4,Nordirland,NA
+Lisburn,Jennifer Bullick School of Ballet,NA,NA,Nordirland,3
+Birmingham_School,Elmhurst School of Dance,NA,NA,England,2
+fh,Francesca Hayward,1,4,Kenia,NA
+Worthing,Le Serve School of Ballet and Theatre Dance,NA,NA,England,3
+rh,Ryoichi Hirano,2,6,Japan,NA
+Tokio_School,Setsuko Hirano Ballet School,NA,NA,Japan,3
+fk,Fumi Kaneko,1,4,Japan,NA
+Osaka_School,Jinushi Kaoru Ballett School,NA,NA,Japan,NA
+Osaka_Ballett,Jinushi Kaoru Ballet Company,NA,NA,Japan,3
+sl,Sarah Lamb,1,6,USA,NA
+Boston_School,Boston Ballett School,NA,NA,USA,3
+Boston_Ballett,Boston Ballett School,NA,NA,USA,3
+mmag,Mayara Magri,1,4,Brasilien,NA
+Rio_de_Janeiro,Petite Danse School ,NA,NA,Brasilien,3
+sm,Steven McRae,2,5,Australien,NA
+vm,Vadim Muntagirov,2,4,Russland,NA
+Perm,Perm Ballet School,NA,NA,Russland,3
+yn,Yasmine Naghdi,1,4,England,NA
+mn,Marianela Nuñez,1,6,Argentinien,NA
+Buenos_Aires_School,Teatro Colón Ballet School,NA,NA,Argentinien,3
+St_Petersburg,St Petersburg Mussorgsky State Academic Theatre of Opera and Ballet,NA,NA,Russland,1
+Moskau,Stanislavsky and Nemirovich-Dantshenko Academic Music Theatre in Moscow,NA,NA,Russland,2
+os,Olga Smirnova,1,4,Russland,NA
+St_Petersburg_Vaganova,Vaganova Ballet Academy,NA,NA,Russland,1
+Moskau_Bolshoi,Bolshoi Ballet,NA,NA,Russland,1
+at,Anna Tsygankova,1,6,Russland,1
+Novosibirsk,Novosibirsk Ballet Academy,NA,NA,Russland,2
+Budapest,Hungarian National Ballet Budapest,NA,NA,Ungarn,1
+jx,Jessica Xuan,1,NA,China,NA
+Amsterdam_Academy,Dutch National Ballet Academy,NA,NA,Niederlande,3
+yz,YuanYuan Zhang,1,NA,China,NA
+Chengdu,Sichuan Dance School,NA,NA,China,NA
+Shanghai,Shanghai Theatre Academy,NA,NA,China,2
+Moskau_GITIS,Russian Institute of Theatre Arts GITIS,NA,NA,Russland,1
+no,Natalia Osipova,1,5,Russland,NA
+Moskau_School,Mikhail Lavrosky Ballet School,NA,NA,Russland,3
+Moskau_Bolshoi_Academy,Moscow State Academy of Choreography,NA,NA,Russland,1
+St_Petersburg_Ballett,Mikhailovsky Ballet,NA,NA,Russland,1
+aro,Anna Rose O’Sullivan,1,3,England,NA
+London_Children,London Children's Ballet,NA,NA,England,3
+cr,Calvin Richardson,2,3,Australien,NA
+ms,Marcelino Sambé,2,3,Portugal,NA
+Lissabon,National Conservatory of Lisbon,NA,NA,Portugal,1
+js,Joseph Sissens,2,3,England,NA
+Ware,Georgina Pay School of Dance,NA,NA,England,3
+ata,Akane Takada,1,4,Japan,NA
+Tokio_Studio,Hiromi Takahashi Ballet Studio,NA,NA,Japan,3
+ca,Constantine Allen,2,NA,USA,NA
+Honolulu,Pacific Ballet Academy,NA,NA,USA,NA
+ss,Swetlana Sacharowa,1,6,Ukraine,NA
+Kiew,Choreografische Schule Kiew,NA,NA,Ukraine,3
+St_Petersburg_Mariinsky,Mariinsky Ballett,NA,NA,Russland,1
+ak,Alyona Kovalyova,1,NA,Russland,NA
+jst,Julia Stepanova,1,NA,Russland,NA
+Moskau_Kammeroper,Moscow State Academic Chamber Opera Theatre,NA,NA,Russland,3
+ast,Anastasia Stashkevich,1,NA,Russland,NA
+an,Anna Nikulina,1,5,Russland,NA
+eo,Evgina Obraztsova,1,6,Russland,NA
+ek,Ekaterina Krysanova,1,5,Russland,NA
+Moskau_Galina,Galina Vishnevskaya Opera Centre,NA,NA,Russland,3
+ab,Artemy Beljakow,2,4,Russland,NA
+st,Semjon Tschudin,2,NA,Russland,NA
+Novosibirsk_College,Novosibirsk Choreographic College,NA,NA,Russland,2
+Seoul_Universal_Ballett,Universal Ballet,NA,NA,Südkorea,3
+eg,Egor Gerashenko,2,NA,Russland,NA
+wl,Wladislaw Lantratow,2,5,Russland,NA
+ml,Michail Lobukhin,2,NA,Russland,NA
+wlo,Wjatscheslaw Lopatin,2,5,Russland,NA
+Woronesch,Voronezh Choreographic College,NA,NA,Russland,2
+aow,Artem Owtscharenko,2,5,Ukraine,NA
+Dnipropetrowsk,Dnipropetrovsk State Choreographic School,NA,NA,Ukraine,3
+Washington,Kirov Ballet Academy,NA,NA,USA,3
+ygc,Young Gyu Choi,2,4,Südkorea,NA
+Seoul_School,Sun Hwa Arts School,NA,NA,Südkorea,3
+Zürich_Akademie,Tanz Akademie Zürich,NA,NA,Schweiz,4
+gp,Giorgi Potskhishvili,2,2,Georgien,NA
+tvp,Timothy van Poucke,2,3,Niederlande,NA
+Zoetermeer,Ballettschule in Zoetermeer,NA,NA,Niederlande,NA
+jt,Jacopo Tissi,2,3,Italien,NA
+Mailand,Accademia del Teatro alla Scala,NA,NA,Italien,1
+Wien,Wiener Staatsballett,NA,NA,Österreich,1
+Mailand_Balletto,Balletto al Teatro della,NA,NA,Italien,1
+Landriano,Ballettschule in Landriano,NA,NA,Italien,NA
+Swansea,Semjon Welitschko,2,3,Russland,NA
+nb,Nadezhda Batoeva,1,4,Russland,NA
+Wolgograd,Tsaritsynskaya Opera Theater,NA,NA,Russland,NA
+sv,Semyon Velichko,2,2,Russland,NA
+ekko,Ekaterina Kondaurova,1,6,Russland,
+on,Olesya Novikova,2,6,Russland,NA
+resh,Renata Shakirova,1,3,Usbekistan,NA
+Ufa,Bashkir Choreographic College,NA,NA,Russland,2
+oxsk,Oxana Skorik,1,4,Ukraine,NA
+Perm_Ballett,Permer Tschaikowski-Opern- und Balletttheater,NA,NA,Russland,1
+vt,Viktoria Tereshkina,1,6,Sibirien,NA
+Krasnoyarsk_Ballettschule,Ballettschule in Krasnoyarsk,NA,NA,Russland,NA
+dv,Diana Vishneva,1,7,Russland,NA
+ta,Timur Askerov,2,NA,Aserbaidschan,NA
+Baku,Staatstheater Baku,NA,NA,Aserbaidschan,2
+Baku_School,Baku School of Dance,NA,NA,Aserbaidschan,NA
+Kiew_Staatsballett,Ukrainisches Staatsballett,NA,NA,Ukraine,NA
+yi,Yevgeny Ivanchenko,2,NA,Turkmenistan,NA
+kk,Kimin Kim,2,4,Südkorea,NA
+ps,Philipp Stepin,2,NA,Russland,NA
+ay,Andrei Yermakov,2,5,Russland,NA
